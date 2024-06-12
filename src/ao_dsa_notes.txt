@@ -1,0 +1,29 @@
+5 june 2024
+===============
+1. did not understand blocking q
+2.practice multi threading related problems
+
+3.taking frequent breaks
+4.watching videos in middle
+
+8 june 2024
+===========
+still deviating
+unable to imagine test cases for dsa problems
+
+10 june 2024
+===========
+next greater element second approach in college wallah videos
+https://www.youtube.com/watch?v=qUS-DZU4fj4 in this video of shash code, understood o(5n) approach...but did not understand best approach
+ did not get stackminimum element optimal approach
+did not get sliding window max using stacks..college wallah
+
+11 june 2024
+============
+need to learn max heap implementation as a part of recursion
+
+12 june 2024
+============
+did not practice reorderlist in codeops linkedlist videos
+did not study swap nodes in pairs
+left out a lot of topics on linked list.Need to revise them again
