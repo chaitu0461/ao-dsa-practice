@@ -27,3 +27,7 @@ need to learn max heap implementation as a part of recursion
 did not practice reorderlist in codeops linkedlist videos
 did not study swap nodes in pairs
 left out a lot of topics on linked list.Need to revise them again
+
+13 June 2024
+============
+Skipped Binary search on ansswers section
