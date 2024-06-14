@@ -1,4 +1,4 @@
-package recursion.basic.backtrack;
+package recursion.backtrack;
 
 public class PermutationsOfStringUsingBackTracking {
     public static void main(String[] args) {
