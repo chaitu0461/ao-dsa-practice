@@ -3,7 +3,7 @@ package recursion.basic;
 public class ConvertDecimalToBinary
 {
     public static void main(String[] args) {
-        convertDecimalToBinary(10);
+        convertDecimalToBinary(2);
     }
 
     private static void convertDecimalToBinary(int number) {

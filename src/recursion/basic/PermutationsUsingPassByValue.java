@@ -13,7 +13,8 @@ package recursion.basic;public class PermutationsUsingPassByValue {
             String leftPart=originalString.substring(0,i);
             String rightPart=originalString.substring(i+1);
             String remainingString=leftPart+rightPart;
-            permute(remainingString,ans+ch);
+            ans=ans+ch;
+            permute(remainingString,ans);
         }
     }
 }
