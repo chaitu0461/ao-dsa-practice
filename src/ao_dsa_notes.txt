@@ -35,3 +35,7 @@ Skipped Binary search on ansswers section
 15 June 2024
 ============
 need to see combination/permutation problems related to duplicates
+
+17 june 2024
+=============
+look at target sum with given difference once again.did not understand the edge case explaination
