@@ -2,6 +2,7 @@ package numbers;
 
 public class PrimeFactors {
   static void main() {
+
     int number = 95;
     // Try every possible factor starting from 2.
     // First factor is <=sqrt(n)
