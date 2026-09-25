@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class SelectionSort {
     public static void main(String[] args) {
-        int[] nums={89,81,286,1276};
+        int[] nums={89,81,286,1276,9,1,12345};
       // smallestNumberIndex represents the position where the next
       // smallest element should be placed.
         for(int smallestNumberIndex=0;smallestNumberIndex<nums.length-1;smallestNumberIndex++){
